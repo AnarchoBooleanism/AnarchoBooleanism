@@ -21,3 +21,5 @@ Much of my time is spent homelabbing and self-hosting, shown in the **Sapphic Ho
 - [certbot-dns-namecheap](https://github.com/AnarchoBooleanism/certbot-dns-namecheap), a fork of the original [certbot-dns-namecheap](https://github.com/knoxell/certbot-dns-namecheap) with an automated CI/CD setup for creating Docker images
 
 If you are interested in checking out my portfolio (e.g. for more examples/contact info), [here you go!](https://anarchbool.dev)
+
+Profile photo from [pixiv/139458338](https://www.pixiv.net/artworks/139458338)
