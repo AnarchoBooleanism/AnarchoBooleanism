@@ -12,7 +12,7 @@ Currently based in San Diego, CA, having graduated from the University of Califo
 
 Much of my time is spent homelabbing and self-hosting, which is shown in the Sapphic Homelab/Home Server, a cluster of repurposed machines and equipment, which is the center of numerous services and even more hours of experimentation. These machines run Proxmox and TrueNAS SCALE, which host a plethora of NixOS/Linux-based virtual machines and Docker-based containers (with Docker Compose and Komodo); these services and VMs are further supported with CI/CD pipelines and custom scripts for automating common tasks, such as building and backup. Examples of such services are Home Assistant, Pterodactyl, and the Garage S3 server. If you want a video demonstration, [you can watch it here.](https://www.youtube.com/watch?v=hI5Pl6_dHzY)
 
-Here's a list of repos and resources maintained for the Sapphic Homelab:
+**Here's a list of repos and resources maintained for the Sapphic Homelab:**
 - [saphnet-nixos-configs](https://github.com/AnarchoBooleanism/saphnet-nixos-configs), my NixOS flakes for my VMs
 - [saphnet-compose-configs](https://github.com/AnarchoBooleanism/saphnet-compose-configs), my Docker Compose stacks for numerous services
 - [saphnet-ansible-playbook](https://github.com/AnarchoBooleanism/saphnet-ansible-playbook), my Ansible playbooks for automating the deployment of various nodes
