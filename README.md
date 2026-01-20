@@ -2,9 +2,7 @@
 
 I am **Nathan Guerrero**, a software developer and tinkerer, with a focus on DevOps and the back-end. At the moment, *I am looking for work*!
 
-I am strongly proficient in Python, C/C++, and Java, with experience across the entire stack, from React to SQL. More importantly than any technology, I have the ability to quickly learn new skills and languages, as well as break down any complex problem into concise and idiomatic solutions.
-
-In my free time, I like to game and compose/produce music. Additionally, I have an intermediate fluency in both Spanish and Japanese.
+I am strongly proficient in Python, C/C++, and Java, with experience across the entire stack, from React, to SQL, and Docker.
 
 Currently based in *San Diego, CA*, having graduated from the University of California, Irvine in 2025, with a B.S. in Computer Science.
 
