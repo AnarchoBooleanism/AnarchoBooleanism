@@ -6,7 +6,7 @@ I am strongly proficient in Python, C/C++, and Java, with experience across the 
 
 Currently based in *San Diego, CA*, having graduated from the University of California, Irvine in 2025, with a B.S. in Computer Science.
 
-Much of my time is spent homelabbing and self-hosting, shown in the **Sapphic Homelab/Home Server**, a cluster of repurposed machines running Proxmox and TrueNAS SCALE. They host many NixOS/Linux-based virtual machines and Docker-based containers (with Docker Compose and Komodo), supported by CI/CD pipelines and custom scripts for automation. Examples of services being hosted are *Home Assistant*, *Pterodactyl*, and *the Garage S3 server*. For a video demonstration, [watch here.](https://www.youtube.com/watch?v=hI5Pl6_dHzY)
+Much of my time is spent homelabbing and self-hosting, shown in the **Sapphic Homelab/Home Server**, a cluster of repurposed machines running Proxmox and TrueNAS SCALE. They host many NixOS/Linux-based virtual machines and Docker-based containers (with Docker Compose and Komodo), supported by CI/CD pipelines and custom scripts for automation. Examples of services being hosted are *Home Assistant*, *Pterodactyl*, and *a Linux-based development server*. For a video demonstration, [watch here.](https://www.youtube.com/watch?v=hI5Pl6_dHzY)
 
 ### ⭐ List of repos and resources maintained for the Sapphic Homelab ⭐
 - [saphnet-nixos-configs](https://github.com/AnarchoBooleanism/saphnet-nixos-configs), my NixOS flakes for my VMs
