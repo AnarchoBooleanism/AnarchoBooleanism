@@ -1,6 +1,6 @@
 # ✨ Welcome to my profile! ✨
 
-I am **Nathan Guerrero**, a software developer and tinkerer, with a focus on DevOps and the back-end. At the moment, *I am looking for work*!
+I am **Nathan Guerrero**, a software developer and tinkerer, with a focus on DevOps and the back-end. At the moment, *I am looking for work*! (Remote or in-office will do)
 
 I am strongly proficient in Python, C/C++, and Java, with experience across the entire stack, from React, to SQL, and Docker.
 
