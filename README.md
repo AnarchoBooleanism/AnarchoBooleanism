@@ -8,7 +8,7 @@ In my free time, I like to game and compose/produce music. Additionally, I have 
 
 Currently based in *San Diego, CA*, having graduated from the University of California, Irvine in 2025, with a B.S. in Computer Science.
 
-Much of my time is spent homelabbing and self-hosting, shown in the **Sapphic Homelab/Home Server**, a cluster of repurposed machines. These machines run Proxmox and TrueNAS SCALE, which host a plethora of NixOS/Linux-based virtual machines and Docker-based containers (with Docker Compose and Komodo), supported with CI/CD pipelines and custom scripts for automating common tasks, such as building and backup. Examples of services being hosted are *Home Assistant*, *Pterodactyl*, and *the Garage S3 server*. For a video demonstration, [watch here.](https://www.youtube.com/watch?v=hI5Pl6_dHzY)
+Much of my time is spent homelabbing and self-hosting, shown in the **Sapphic Homelab/Home Server**, a cluster of repurposed machines. These machines run Proxmox and TrueNAS SCALE, which host a plethora of NixOS/Linux-based virtual machines and Docker-based containers (with Docker Compose and Komodo), supported with CI/CD pipelines and custom scripts for automating common tasks. Examples of services being hosted are *Home Assistant*, *Pterodactyl*, and *the Garage S3 server*. For a video demonstration, [watch here.](https://www.youtube.com/watch?v=hI5Pl6_dHzY)
 
 **Here's a list of repos and resources maintained for the Sapphic Homelab:**
 - [saphnet-nixos-configs](https://github.com/AnarchoBooleanism/saphnet-nixos-configs), my NixOS flakes for my VMs
