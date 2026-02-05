@@ -28,4 +28,4 @@ If you are interested in my portfolio (e.g. for more examples/contact info), [pl
 
 **Software**: Docker, Docker Compose, Linux/Unix, Proxmox, TrueNAS SCALE, Debian, Ubuntu, Nix/NixOS, Ansible, Traefik, Nginx, GitHub Actions, Tailscale, cloud-init, React, VS Code, OpenWrt, Windows
 
-**Concepts**: DevOps, Continuous Integration/Continuous Delivery (CI/CD), Back-End Development, Full-Stack Development, Infrastructure as Code (IaC), Automation, Containerization, Virtualization, Networking, Distributed Computing, Databases, APIs, Software Design, Systems Administration, Object-Oriented Programming, Functional Programming, Data Pipelines, Cloud Storage
+**Concepts**: DevOps, CI/CD, IaC, Back-End Development, Full-Stack Development, Automation, Containerization, Virtualization, Networking, Distributed Computing, Databases, APIs, Software Design, Systems Administration, Object-Oriented Programming, Functional Programming, Data Pipelines, Cloud Storage
