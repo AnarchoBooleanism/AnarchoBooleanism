@@ -6,9 +6,9 @@ I am strongly proficient in Python, C/C++, and Java, with experience across the 
 
 Currently based in *San Diego, CA*, having graduated from the University of California, Irvine in 2025, with a B.S. in Computer Science.
 
-Much of my time is spent homelabbing/self-hosting, shown in the **Sapphic Homelab/Home Server**, a cluster of repurposed machines running Proxmox and TrueNAS SCALE. They host many NixOS/Linux-based virtual machines and Docker-based containers (with Docker Compose and Komodo), supported with CI/CD pipelines and automation scripts. Services hosted include *Home Assistant*, *Pterodactyl* (a game host), and *a Linux-based development server*, all connected together with Traefik and Tailscale. [Here is a video demonstration.](https://www.youtube.com/watch?v=hI5Pl6_dHzY)
+Much of my time is spent homelabbing/self-hosting, shown in the **Sapphic Homelab/Home Server**, a cluster of repurposed machines running Proxmox and TrueNAS SCALE. They host many NixOS/Linux-based virtual machines and Docker-based containers (with Docker Compose and Komodo), supported with CI/CD pipelines and automation scripts. Services hosted include *Home Assistant*, *Pterodactyl* (a game host), and *a Linux-based development server*, all connected together with Traefik and Tailscale. [Here is a video demonstration!](https://www.youtube.com/watch?v=hI5Pl6_dHzY)
 
-As well, I daily drive Arch Linux, with my dotfiles and other configuration in [linux-config](https://github.com/AnarchoBooleanism/linux-config)!
+As well, I daily drive Arch Linux, with my dotfiles and other configuration in [linux-config](https://github.com/AnarchoBooleanism/linux-config).
 
 ### ⭐ List of repos and resources maintained for the Sapphic Homelab ⭐
 - [saphnet-nixos-configs](https://github.com/AnarchoBooleanism/saphnet-nixos-configs), my NixOS flakes for my VMs
