@@ -18,6 +18,7 @@ As well, I daily drive Arch Linux, with my dotfiles and other configuration in [
 - [saphnet-nginx](https://github.com/AnarchoBooleanism/saphnet-nginx), a custom Docker image for simplified reverse proxy setups with Nginx
 - [nixos-cloud-init-installer](https://github.com/AnarchoBooleanism/nixos-cloud-init-installer), a NixOS image/flake intended for flexible cloud-init provisioning, built with GitHub Actions
 - [docker-volume-rclone](https://github.com/AnarchoBooleanism/docker-volume-rclone), a custom Docker image for synchronizing Docker volumes to a remote location on a schedule
+- [n8n-homepage-api](https://github.com/AnarchoBooleanism/n8n-homepage-api), a custom API server that provides statistics about n8n to use for Homepage by querying its SQL server
 - [certbot-dns-namecheap](https://github.com/AnarchoBooleanism/certbot-dns-namecheap), a fork of the original [certbot-dns-namecheap](https://github.com/knoxell/certbot-dns-namecheap) with an automated CI/CD setup for creating Docker images
 
 If you are interested in my portfolio (e.g. for more examples/contact info), [please click here!](https://anarchbool.dev)
@@ -26,6 +27,6 @@ If you are interested in my portfolio (e.g. for more examples/contact info), [pl
 
 **Languages**: Python, C/C++, Java, JavaScript, Bash, SQL, YAML
 
-**Software**: Docker, Docker Compose, VS Code, Linux/Unix, Proxmox, TrueNAS SCALE, Debian, Ubuntu, Nix/NixOS, Ansible, Traefik, Nginx, GitHub Actions, Tailscale, Rclone, cloud-init, React, OpenWrt, Windows
+**Software**: Docker, Docker Compose, VS Code, Linux/Unix, Proxmox, TrueNAS SCALE, Debian, Ubuntu, Nix/NixOS, Ansible, Traefik, Nginx, GitHub Actions, FastAPI, Tailscale, Rclone, cloud-init, React, OpenWrt, Windows
 
 **Concepts**: DevOps, CI/CD, IaC, Back-End Development, Full-Stack Development, Automation, Containerization, Virtualization, Networking, Distributed Computing, Databases, APIs, Software Design, Systems Administration, Object-Oriented Programming, Functional Programming, Data Pipelines, Cloud Storage
