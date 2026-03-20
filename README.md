@@ -16,6 +16,7 @@ As well, I daily drive Arch Linux, with my dotfiles and other configuration in [
 - [saphnet-ansible-playbook](https://github.com/AnarchoBooleanism/saphnet-ansible-playbook), my Ansible playbooks for automating the deployment of various nodes
 - [saphnet-sftp](https://github.com/AnarchoBooleanism/saphnet-sftp), a custom Docker image for simplified SFTP servers
 - [saphnet-nginx](https://github.com/AnarchoBooleanism/saphnet-nginx), a custom Docker image for simplified reverse proxy setups with Nginx
+- [saphnet-pterodactyl-images](https://github.com/AnarchoBooleanism/saphnet-pterodactyl-images), a set of custom Docker images for Pterodactyl
 - [nixos-cloud-init-installer](https://github.com/AnarchoBooleanism/nixos-cloud-init-installer), a NixOS image/flake intended for flexible cloud-init provisioning, built with GitHub Actions
 - [docker-volume-rclone](https://github.com/AnarchoBooleanism/docker-volume-rclone), a custom Docker image for synchronizing Docker volumes to a remote location on a schedule
 - [n8n-homepage-api](https://github.com/AnarchoBooleanism/n8n-homepage-api), a custom API server that provides statistics about n8n to use for Homepage by querying its SQL server
