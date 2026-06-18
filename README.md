@@ -12,7 +12,8 @@ As well, I daily drive Arch Linux, with my dotfiles and other configuration in [
 
 ### ⭐ List of repos and resources maintained for the Sapphic Homelab ⭐
 - [saphnet-nixos-configs](https://github.com/AnarchoBooleanism/saphnet-nixos-configs), my NixOS flakes for my VMs
-- [saphnet-compose-configs](https://github.com/AnarchoBooleanism/saphnet-compose-configs), my Docker Compose stacks for numerous services
+- [saphnet-compose-configs](https://github.com/AnarchoBooleanism/saphnet-compose-configs), my Docker Compose stacks for numerous services, included with plumbing (through Komodo Resource Syncs)
+- [saphnet-komodo](https://github.com/AnarchoBooleanism/saphnet-komodo), my main Resource Sync for Komodo
 - [saphnet-ansible-playbook](https://github.com/AnarchoBooleanism/saphnet-ansible-playbook), my Ansible playbooks for automating the deployment of various nodes
 - [saphnet-sftp](https://github.com/AnarchoBooleanism/saphnet-sftp), a custom Docker image for simplified SFTP servers
 - [saphnet-nginx](https://github.com/AnarchoBooleanism/saphnet-nginx), a custom Docker image for simplified reverse proxy setups with Nginx
