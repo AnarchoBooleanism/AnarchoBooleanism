@@ -22,6 +22,7 @@ As well, I daily drive Arch Linux, with my dotfiles and other configuration in [
 - [docker-volume-rclone](https://github.com/AnarchoBooleanism/docker-volume-rclone), a custom Docker image for syncing Docker volumes to a remote location on a schedule
 - [n8n-homepage-api](https://github.com/AnarchoBooleanism/n8n-homepage-api), a custom API server (for Homepage) providing statistics about n8n
 - [certbot-dns-namecheap](https://github.com/AnarchoBooleanism/certbot-dns-namecheap), a fork of the original [certbot-dns-namecheap](https://github.com/knoxell/certbot-dns-namecheap) with an automated CI/CD setup for Docker images
+- [renovate-config](https://github.com/AnarchoBooleanism/renovate-config), a set of Renovate presets shared between the above repositories, with custom functionality
 
 If you are interested in my portfolio (e.g. for more examples/contact info), [please click here!](https://anarchbool.dev)
 
@@ -31,6 +32,6 @@ Furthermore, I have a blog [at this location.](https://anarchbool.dev/blog/)
 
 **Languages**: Python, C/C++, Java, JavaScript, Bash, SQL, YAML
 
-**Software**: Docker, Kubernetes, Docker Compose, Komodo, SOPS, GitHub Actions, Ansible, Tailscale, Traefik, Nginx, n8n, FastAPI, Linux/Unix, Proxmox, TrueNAS SCALE, Nix/NixOS, Debian, Ubuntu, cloud-init, React, VS Code, OpenWrt, Windows
+**Software**: Docker, Kubernetes, Docker Compose, Komodo, SOPS, GitHub Actions, Renovate, Ansible, Tailscale, Traefik, Nginx, n8n, FastAPI, Linux/Unix, Proxmox, TrueNAS SCALE, Nix/NixOS, Debian, Ubuntu, cloud-init, React, VS Code, OpenWrt, Windows
 
 **Concepts**: DevOps, CI/CD, IaC, Back-End Development, Full-Stack Development, Automation, Event-Driven Architecture, Microservices, Secrets Management, Containerization, Virtualization, Networking, Distributed Computing, Cloud Computing, APIs, Databases, Systems Administration, Software Design, Data Pipelines
