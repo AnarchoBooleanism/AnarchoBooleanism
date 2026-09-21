@@ -35,3 +35,5 @@ Furthermore, I have a blog [at this location.](https://anarchbool.dev/blog/)
 **Software**: Docker, Kubernetes, Docker Compose, Komodo, SOPS, GitHub Actions, Renovate, Ansible, Tailscale, Traefik, Nginx, n8n, FastAPI, Linux/Unix, Proxmox, TrueNAS SCALE, Nix/NixOS, Debian, Ubuntu, cloud-init, React, VS Code, OpenWrt, Windows
 
 **Concepts**: DevOps, CI/CD, IaC, Back-End Development, Full-Stack Development, Automation, Event-Driven Architecture, Microservices, Secrets Management, Containerization, Virtualization, Networking, Distributed Computing, Cloud Computing, APIs, Databases, Systems Administration, Software Design, Data Pipelines
+
+お読みいただき、ありがとうございます！🙇🙇
