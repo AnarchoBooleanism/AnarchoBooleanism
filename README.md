@@ -2,11 +2,11 @@
 
 I am **Nathan Guerrero**, a tinkerer and software developer, focused on DevOps and the back-end. At the moment, *I am looking for work*! (Remote or in-office)
 
-I am strongly proficient in Python, C/C++, and Java, with experience across the stack, from React to SQL. As for DevOps, I am knowledgeable in Docker, Nix & Ansible (for IaC), shell scripting (e.g. Bash), and CI/CD pipelines (with GitHub Actions).
+I am strongly proficient in Python, C/C++, and Java, with experience across the stack, from React to SQL. As for DevOps, I am knowledgeable in Docker, Nix, and Ansible (for IaC), CI/CD pipelines (with GitHub Actions), and shell scripting (e.g. Bash).
 
 Currently based in *San Diego, CA*, having graduated from the University of California, Irvine in 2025, with a B.S. in Computer Science.
 
-Much of my time is spent on the **Sapphic Homelab/Home Server**, a continuously-evolving cluster of repurposed machines running Proxmox (and TrueNAS SCALE). They host many NixOS/Linux-based VMs and Docker-based containers (with Docker Compose and Komodo), supported with CI/CD pipelines and automation scripts. Services hosted include *Home Assistant*, *Pterodactyl*, and *n8n*, all connected together with Traefik and Tailscale. [Here is a video demonstration!](https://www.youtube.com/watch?v=hI5Pl6_dHzY)
+Much of my time is spent on the **Sapphic Homelab/Home Server**, a continuously-evolving cluster of repurposed machines running Proxmox (and TrueNAS SCALE). They host many NixOS-based VMs and Docker-based container workloads (with Docker Compose and Komodo), supported with many layers of CI/CD pipelines and orchestration. Services hosted include *Pterodactyl*, *Immich*, and *n8n*, all connected together with Traefik and Tailscale. [Here is a video demonstration!](https://www.youtube.com/watch?v=q_1CwsmaGQE)
 
 As well, I daily drive Arch Linux, with my dotfiles and other configuration in [linux-config](https://github.com/AnarchoBooleanism/linux-config).
 
@@ -34,6 +34,6 @@ Furthermore, I have a blog [at this location.](https://anarchbool.dev/blog/)
 
 **Software**: Docker, Kubernetes, Docker Compose, Komodo, SOPS, GitHub Actions, Renovate, Ansible, Tailscale, Traefik, Nginx, n8n, FastAPI, Linux/Unix, Proxmox, TrueNAS SCALE, Nix/NixOS, Debian, Ubuntu, cloud-init, React, VS Code, OpenWrt, Windows
 
-**Concepts**: DevOps, CI/CD, IaC, Back-End Development, Full-Stack Development, Automation, Event-Driven Architecture, Microservices, Secrets Management, Containerization, Virtualization, Networking, Distributed Computing, Cloud Computing, APIs, Databases, Systems Administration, Software Design, Data Pipelines
+**Concepts**: DevOps, CI/CD, IaC, Back-End Development, Full-Stack Development, Automation, Orchestration, Event-Driven Architecture, Microservices, Secrets Management, Containerization, Virtualization, Networking, Distributed Computing, Cloud Computing, APIs, Databases, Systems Administration, Software Design, Data Pipelines
 
 お読みいただき、ありがとうございます！🙇🙇
